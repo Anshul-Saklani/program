@@ -1,5 +1,8 @@
 <html>
 <head>
-<title>document</title>
-</head>
+<title>document of nano</title>
+<?php
+$x = d;
+echo $x;
+?>
 </html>
