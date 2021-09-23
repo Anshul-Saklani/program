@@ -1,5 +1,5 @@
 <html>
 <head>
-<title>document</title>
+<title>document of main</title>
 </head>
 </html>
