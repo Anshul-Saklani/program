@@ -22,3 +22,5 @@ $output = '<table border="1" width="100%" cellspacing="0" cellpedding="10px">
 }
 
 ?>
+<html>
+</html>	
